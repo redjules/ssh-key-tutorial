@@ -16,9 +16,12 @@ We open a new terminal:
 
 id_rsa is the private key and id_rsa.pub is the public key. 
 
-In the authorized_keys file we copy the content of the public key:
+In the authorized_keys file, we copy the content of the public key:
 
 ![Screenshot 2024-10-26 at 23 20 40](https://github.com/user-attachments/assets/4c551bb6-7d5a-4e9b-8f10-6bdc5fa00c52)
+
+![Screenshot 2024-11-03 at 18 26 11](https://github.com/user-attachments/assets/1afd28a6-de2b-4e5b-8a56-8639c59fd208)
+
 
 <img width="635" alt="Screenshot 2024-10-28 at 18 35 36" src="https://github.com/user-attachments/assets/bb665ec5-e82a-4210-82b6-fbd6ffd94141">
 
