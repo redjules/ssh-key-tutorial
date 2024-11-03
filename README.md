@@ -14,7 +14,9 @@ We open a new terminal:
 
 ![Screenshot 2024-10-28 at 18 31 23](https://github.com/user-attachments/assets/a1a52dcf-7340-4c4f-84b6-c4866397a2cf)
 
-id_rsa is the private key and id_rsa.pub is the public key. The file where we add the public key of all the computers, all the client computers that want to connect to this server is the authorited_keys file:
+id_rsa is the private key and id_rsa.pub is the public key. 
+
+In the authorized_keys file we copy the content of the public key:
 
 ![Screenshot 2024-10-26 at 23 20 40](https://github.com/user-attachments/assets/4c551bb6-7d5a-4e9b-8f10-6bdc5fa00c52)
 
